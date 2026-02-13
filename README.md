@@ -39,4 +39,4 @@ Vindo da área de Suporte Técnico/Telecom, trago uma bagagem forte em resoluç�
 
 ### 📫 Contato
 
-[![LinkedIn](https://www.linkedin.com/in/felipe-vale-b3b420341/)
+[![LinkedIn](www.linkedin.com/in/felipe-vale-b3b420341)
