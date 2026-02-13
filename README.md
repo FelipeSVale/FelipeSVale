@@ -2,17 +2,15 @@
 
 ###
 
+
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=FelipeSVale&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
-    height="160"
-  />
+![Stats](https://github-readme-stats.vercel.app/api?username=FelipeSVale&show_icons=true&theme=dracula)
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSVale&layout=compact&theme=dracula" 
-    height="160"
-  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSVale&layout=compact&theme=dracula)
+
+</div>
+
 
 </div>
 
