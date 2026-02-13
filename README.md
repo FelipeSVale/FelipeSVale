@@ -2,21 +2,6 @@
 
 ###
 
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=FelipeSVale&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSVale&layout=compact&theme=dracula)
-
-</div>
-
-
-</div>
-
-
-###
-
 <img align="right" height="150" src= https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV0djllam5kcHliNjNvaDVycmo5dGY5MHQzOHNuamJ2cGo5YnYzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q1aRmd8e90WIw/giphy.gif />
 
 ###
